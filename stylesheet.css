@@ -1,0 +1,85 @@
+*{
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	text-align: left;
+	padding-bottom: 3px;
+}
+body{
+	background-color: #FFBCB2;
+}
+div{
+	padding-right: 30px;
+}
+/* menu bar */
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 14%;
+	background-color: #FFBCB2;
+	height: auto;
+	position: fixed;
+	overflow: auto;
+}
+li a {
+    display: block;
+	color: #000;
+	font-size: 15px;
+	padding: 8px 9px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #F0B1A7;
+}
+/* myth list */
+ol{
+	margin-left: 20%;
+}
+li{
+	font-size: 20px;
+}
+h1{
+	font-family: 'Playfair Display SC', serif;
+	font-size: 35px;
+	color: #882153;
+	margin-top: 0%;
+	text-align: center;
+	background-image: url(http://s13.favim.com/orig/160208/aesthetic-nature-pastel-sky-Favim.com-3972333.jpg);
+	background-repeat: no repeat;
+	
+}
+h3{
+	color: #7F1F4E;
+	margin-left: 15%;
+}
+h4{
+	margin-left: 20%;
+	margin-right: 5%;
+	color: #824764;
+}
+p {
+	font-size: 20px;
+	text-indent: 2%;
+	margin-left: 15%;
+	margin-right: 5%;
+}
+i{
+	font-size: 20px;
+}
+em{
+	font-size: 20px;
+}
+figure{
+	margin-left: 15%;
+	float: left;
+}
+figcaption{
+	font-size: 15px;
+	margin-left: 15%;
+}
+img{
+	padding-right: 4;
+	padding-left: 4;
+	padding-bottom: 4;
+	padding-top: 4;
+}
